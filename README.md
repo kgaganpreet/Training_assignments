@@ -1,4 +1,29 @@
-# Training_assignments
-This is my Training Assignment Folder.
-<br>
-Author - Gaganpreet kaur
+# Training_Project
+
+## 📁 Project Structure
+
+```text
+E-commerce-main/
+│
+├── admin/
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   └── ...
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   └── ...
+│
+├── backend/
+│   ├── config/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── server.js
+│   ├── package.json
+└── ...
+```
