@@ -16,7 +16,7 @@ A full-stack E-Commerce web application developed using the MERN Stack (MongoDB,
 - 👨‍💼 Admin Dashboard
 - 📦 Order Management
 
-  ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 - React.js
@@ -132,6 +132,6 @@ Create a `.env` file inside the backend folder and configure:
 - MCA Student
 - MERN Stack Developer
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/kgaganpreet
 
-LinkedIn: https://www.linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/in/kgaganpreet
